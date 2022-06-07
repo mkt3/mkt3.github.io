@@ -1,4 +1,3 @@
-# Makoto Morinaga
 Hello, this page is test page.
 
 ## Links
