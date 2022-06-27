@@ -1,6 +1,0 @@
-theme: jekyll-theme-tactile
-title: Makoto Morinaga
-
-exclude:
-  - README.md
-  - LICENSE.txt

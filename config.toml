@@ -1,0 +1,9 @@
+baseURL = 'https://mkt3.github.io'
+languageCode = 'en-us'
+title = 'Makoto Morinaga'
+theme = 'hugo-book'
+[params]
+  BookTheme = 'light'
+  BookToC = true
+  BookSection = '*'
+  BookRepo = 'https://github.com/mkt3/mkt3.github.io'
