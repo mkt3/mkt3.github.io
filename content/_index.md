@@ -1,6 +1,6 @@
 ---
 title: "Top page"
-draft: true
+draft: false
 bookToc: false
 bookComments: false
 ---
